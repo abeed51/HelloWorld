@@ -11,5 +11,6 @@ public class JavaExample{
 		{
 		     System.out.println("hello = "+i);
 		}
+	 Sytem.out.println("git repository working successfully"); 
 	}
 }
