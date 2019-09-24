@@ -7,5 +7,9 @@ public class JavaExample{
 		{
 		     System.out.println("hello = "+i);
 		}
+		for(i=10;i>=0;i--)
+		{
+		     System.out.println("hello = "+i);
+		}
 	}
 }
