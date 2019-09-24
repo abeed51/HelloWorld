@@ -2,7 +2,7 @@ public class JavaExample{
 
 	public static void main(String[] args)
 	{
-	        Sytem.out.println("git repository working successfully"); 
+	       
 		int i;
 		for(i=0;i<=10;i++)
 		{
@@ -12,6 +12,6 @@ public class JavaExample{
 		{
 		     System.out.println("hello = "+i);
 		}
-
+	 System.out.println("git repository working successfully"); 
 	}
 }
